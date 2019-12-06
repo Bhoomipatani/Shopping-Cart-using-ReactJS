@@ -1,0 +1,31 @@
+:root{
+  --one:	#CAEBF6;
+  --two: lightgrey;
+  --three: skyblue;
+  --four:purple;
+  --five: black;
+}
+
+body{
+  font-family: 'Scada', sans-serif!important;
+  background:var(--two) !important;
+}
+.text-title{
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+}
+.text-color{
+  color:four;
+}
+.text-bright{
+  color:three;
+}
+
+
+
+
+
+
+
+
+
